@@ -638,15 +638,15 @@
 //
     {
         "class": "icon_file_type",
-        "content_margin": [0,0]
+        "content_margin": [8,8]
     },
     {
         "class": "icon_folder",
-        "content_margin": [0,0]
+        "content_margin": [9,9]
     },
     {
         "class": "icon_folder_loading",
-        "content_margin": [0,0]
+        "content_margin": [8,8]
     },
     // Sidebar group closed
     {
